@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dict.</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>ｄｉｃｔａｔｉｏｎ	ｄｉｃｔａｔｏｒ	ｄｉｃｔｉｏｎａｒｙ</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dicta</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>ｄｉｃｔｕｍの複数形</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">Dictaphone</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>ディクタフォン（口述録音器の商標名）</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dictate</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>（人に）〈文章など〉‘を’『書き取らせる』，口述する《＋『名』＋『ｔｏ』＋『名』》	…‘を’命じる，命令する，指図する：《『ｄｉｃｔａｔｅ』＋『名』＋『ｔｏ』＋『名』…を…に命じる》	（人に）書き取らせる，口述する《＋『ｔｏ』＋『名』》	（…に）命令する，指図する《＋『ｔｏ』＋『名』》	（権威ある）命令；（良心などの）命じるところ</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dictation</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>〈Ｕ〉『口述』，『書き取り』	〈Ｃ〉書き取られたもの，口述されたもの	〈Ｃ〉〈Ｕ〉命令，指図</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dictator</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>独裁者，専制者	口述者</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dictatorial</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>独裁者の；独裁的	横暴な，横柄な</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dictatorship</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>〈Ｕ〉独裁者の職（任期）	〈Ｕ〉独裁政治	〈Ｃ〉独裁国</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">diction</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>言葉遣い，言い回し，語法	発声法，話し方</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dictionary</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>『辞書』，辞典，字引き</div>
+				</div>
+  </Body>
+</GetDicItemResult>
+<?xml version="1.0" encoding="utf-8"?>
+<GetDicItemResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://btonic.est.co.jp/NetDic/NetDicV09">
+  <ErrorMessage />
+  <Head>
+    <div class="NetDicHead" xml:space="preserve" xmlns="">
+					<span class="NetDicHeadTitle">dictum</span>
+					
+					
+				</div>
+  </Head>
+  <Body>
+    <div class="NetDicBody" xml:space="preserve" xmlns="">
+					<div>（専門家の）断言，言明	金言，格言</div>
+				</div>
+  </Body>
+</GetDicItemResult>
